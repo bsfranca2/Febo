@@ -1,0 +1,10 @@
+{
+  "name": "febo",
+  "version": "0.0.1",
+  "description": "Another rich text editor",
+  "main": "index.js",
+  "repository": "https://github.com/bsfranca2/Febo.git",
+  "author": "Bruno França <brunofranca552@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
